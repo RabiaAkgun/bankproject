@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="0.502">
+    <testcase classname="Unknown" name="TC03 Gecerli Phone Bilgisi" time="0.055">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+            <![CDATA[* Kullanici Phone Number textbox'a tiklar...................................passed
+* Kullanici gecerli Phone Number girer......................................passed
+* Kullanici Please enter your mobile phone number. yazisini gormemelidir....undefined
+* Kullanici Your mobile phone number is invalid. yazisini gormemeli.........skipped
+]]>
+        </failure>
+    </testcase>
+</testsuite>
